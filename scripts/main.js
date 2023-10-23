@@ -1,0 +1,1 @@
+alert("If you hate Nijika, go out of here!");
