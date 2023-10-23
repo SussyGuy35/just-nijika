@@ -1,1 +1,1 @@
-alert("If you hate Nijika, go out of here!");
+alert("If you hate Nijika, get out of here!");
